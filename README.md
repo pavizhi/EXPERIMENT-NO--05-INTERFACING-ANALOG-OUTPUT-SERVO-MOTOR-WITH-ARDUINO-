@@ -68,6 +68,9 @@ CIRCUIT DIAGRAM
 
 ## PROGRAM :
 ```
+DEVELOPED BY:B.PAVIZHI
+REGISTER NO:212221230077
+
 #include<Servo.h>
 Servo s1;
 void setup()
